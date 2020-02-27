@@ -1,0 +1,9 @@
+{
+  "id": "2019-melhor-comunicacao",
+  "name": "Melhor Comunicação",
+  "year": 2019,
+  "description": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "img": "./api/produtos/notebook/notebook-foto.jpg",
+  "skills": ["PHP","WordPress","UnderStrap Theme","jQuery","Adobe XD","Usability Test"],
+  "xp": ["UX Design", "UI Design", "Coordinator", "Usability Test", "Front-End Development", "Back-End Development"]
+}
